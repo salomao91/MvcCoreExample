@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\source\\praticar\\MvcCoreExample\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|c:\\source\\praticar\\mvccoreexample\\mvccoreexample\\models\\professormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|solutionrelative:mvccoreexample\\models\\professormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|c:\\source\\praticar\\mvccoreexample\\mvccoreexample\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|solutionrelative:mvccoreexample\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|c:\\source\\praticar\\mvccoreexample\\mvccoreexample\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|solutionrelative:mvccoreexample\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|c:\\source\\praticar\\mvccoreexample\\mvccoreexample\\models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|solutionrelative:mvccoreexample\\models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|c:\\source\\praticar\\mvccoreexample\\mvccoreexample\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE8DB35-C7C5-4504-A44C-329F17191F02}|MvcCoreExample\\MvcCoreExample.csproj|solutionrelative:mvccoreexample\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\AddressModel.cs",
+              "RelativeDocumentMoniker": "MvcCoreExample\\Models\\AddressModel.cs",
+              "ToolTip": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\AddressModel.cs",
+              "RelativeToolTip": "MvcCoreExample\\Models\\AddressModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:38:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupModel.cs",
+              "DocumentMoniker": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\GroupModel.cs",
+              "RelativeDocumentMoniker": "MvcCoreExample\\Models\\GroupModel.cs",
+              "ToolTip": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\GroupModel.cs",
+              "RelativeToolTip": "MvcCoreExample\\Models\\GroupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:17:51.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\CourseModel.cs",
+              "RelativeDocumentMoniker": "MvcCoreExample\\Models\\CourseModel.cs",
+              "ToolTip": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\CourseModel.cs",
+              "RelativeToolTip": "MvcCoreExample\\Models\\CourseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:42:49.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfessorModel.cs",
+              "DocumentMoniker": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\ProfessorModel.cs",
+              "RelativeDocumentMoniker": "MvcCoreExample\\Models\\ProfessorModel.cs",
+              "ToolTip": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\ProfessorModel.cs",
+              "RelativeToolTip": "MvcCoreExample\\Models\\ProfessorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:41:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "MvcCoreExample\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\source\\praticar\\MvcCoreExample\\MvcCoreExample\\Models\\StudentModel.cs",
+              "RelativeToolTip": "MvcCoreExample\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:38:40.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
