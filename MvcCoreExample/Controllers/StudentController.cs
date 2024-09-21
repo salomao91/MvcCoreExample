@@ -14,18 +14,13 @@ namespace MvcCoreExample.Controllers
             _connectionString = connectionString.GetConnectionString("DefaultConnection");
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> Index()
         {
             using (var sqlConnection = new SqlConnection(_connectionString))
             {
                 const string query = "SELECT * FROM Student";
                 var students = await sqlConnection.QueryAsync<StudentModel>(query);
-                return Ok(students);
+                return View(students);
             }
         }
 
