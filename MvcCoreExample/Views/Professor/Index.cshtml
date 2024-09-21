@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ProfessorModel>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Birthdate</th>
+            <th scope="col">SocialNumber</th>
+            <th scope="col">Employer</th>
+            <th scope="col">Salary</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var professor in Model)
+        {
+            <tr>
+                <td>@professor.Id</td>
+                <td>@professor.Name</td>
+                <td>@professor.Birthdate</td>
+                <td>@professor.SocialNumber</td>
+                <td>@professor.Employer</td>
+                <td>@professor.Salary</td>
+            </tr>
+        }
+    </tbody>
+</table>
