@@ -6,7 +6,7 @@ namespace MvcCoreExample.Models
     {
         public string Employer { get; set; }
         public double Salary { get; set; }
-        public List<GroupModel> Groups { get; set; }
+        public List<GroupClassModel> Groups { get; set; }
         
     }
 }

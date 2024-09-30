@@ -4,6 +4,6 @@
     {
         public string University { get; set; }
         public int Semester { get; set; }
-        public List<GroupModel> Groups { get; set; }
+        public List<GroupClassModel> Groups { get; set; }
     }
 }
